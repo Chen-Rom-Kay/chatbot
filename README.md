@@ -1,5 +1,5 @@
 # 关于聊天机器人的学习
-以下项目统一使用chatglm3-6b、langchian、fastapi、streamlit搭建
+以下项目统一使用chatglm3-6b、LangChain、fastapi、streamlit搭建
 ## 163music--网易云情感歌曲推荐助手
     1、爬取--selenium
     使用selenium对网易云歌曲的播放链接、歌曲名、歌词等进行爬取，再通过prompt之后的chatglm模型对每首歌曲的歌词进行4-8种情感总结。
