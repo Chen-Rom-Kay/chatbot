@@ -12,13 +12,6 @@
     对新浪网站的新闻进行爬取，并进行文档分割和文本向量embedding。使用retriever+chatglm来对用户的输入依据相关新闻进行回复    
 ![01-18_230130](https://github.com/Chen-Rom-Kay/chatbot/assets/48251374/b8b785fb-5924-4a57-affb-b03b5cb3a312)
 
-# 关于MLLM的项目
-以下项目多为语言+图片多模态组合
-## 多模态漫画
 
-# 微调相关
-## 1、DeepSpeed-Chat
-## 2、Stable Diffusion
-## 3、Code Llama微调
 
 
