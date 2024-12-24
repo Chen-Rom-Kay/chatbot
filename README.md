@@ -13,8 +13,8 @@
 ![01-18_230130](https://github.com/Chen-Rom-Kay/chatbot/assets/48251374/b8b785fb-5924-4a57-affb-b03b5cb3a312)
 
 # langchain的学习代码（https://learn.activeloop.ai/）：
-Retrieval Augmented Generation for Production with LangChain & LlamaIndex
-Building AI Search: Multi-Modal RAG, RAFT, & GraphRAG
+    Retrieval Augmented Generation for Production with LangChain & LlamaIndex
+    Building AI Search: Multi-Modal RAG, RAFT, & GraphRAG
 
 
 
